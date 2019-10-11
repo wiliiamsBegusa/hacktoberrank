@@ -2,7 +2,7 @@
 
 ## Project Description
 
-Hacktober Rank is a rank of participants of the Hacktoberfest. It fetches pull requests from github and list the users with most opened pull requests during the event period: October 1st to October 31.
+Hacktober Rank is a rank of participants of the Hacktoberfest. It fetches pull requests from github and list the users with most opened pull requests during the event period: October 1st to October 31st.
 
 The rank page lists the rank per year and allows to filter by location.
 
